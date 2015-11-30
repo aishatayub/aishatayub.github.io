@@ -33,13 +33,23 @@ border: 3px Solid #0f3d3d;
 }
 .jumbotron h2{
 	text-align: center;
+	font-size:50pt;
 }
 #mission {
 color: #ddd;
 background-color: rgba(32, 35, 41, 0.9);
 text-align: center;
+font-size: 25pt;
 }
-
+#mission p{
+font-size :25pt;
+}
+#buzz{
+font-size: 35pt;
+}
+#buzz p{
+	font-size:20pt;
+}
 #video{
 	text-align: center;
 	border: 3px solid;
