@@ -19,12 +19,13 @@ border-color: #b62f26;
 	margin-bottom: 1em;
 	font-size:100pt;
 	font-weight: bold;
+
 }
 .jumbotron {
 min-height: 100px;
 max-height: 700px;
 
-background-color: #1f7a7a;
+background-image:url('images/background.jpg');
 background-size: cover;
 background-attachment: fixed ;
 border: 3px Solid #0f3d3d;
