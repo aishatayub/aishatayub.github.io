@@ -23,7 +23,7 @@ border-color: #b62f26;
 }
 .jumbotron {
 
-
+max-height: 970px;
 background-image:url('images/background.jpg');
 background-size: cover;
 background-attachment: fixed ;
@@ -58,4 +58,6 @@ font-size: 35pt;
 	text-align:center;
 }
 
-
+body {
+	padding:10px;
+}
