@@ -1,0 +1,51 @@
+*{
+	padding:0;
+	margin:0;
+	text-decoration: none;
+	
+}
+
+body{
+	background-color: black;
+}
+
+div.enter{
+	background-image: url("images/bg1.jpg");
+	position: fixed;
+	min-height: 600px;
+
+	width:100%;
+	float:left;
+	clear: both;
+	position:relative;
+}
+
+h1.doubt{
+	
+	text-align: center;
+	color: white;
+	font-family: 'Shrikhand',cursive;
+	font-size: 50px;
+	font-weight: 400;
+	margin-top: 20%;
+	margin-bottom:25%;
+
+}
+
+.doubt a{
+	color:#FFD700;
+}
+
+#first {
+	width:100%;
+	height: 700px;
+	float: left;
+	clear:both;
+	
+}
+.carousel{
+	float: left;
+	margin-right: 50%;
+	padding:10px;
+	
+}
